@@ -1,4 +1,8 @@
-# Welcome to your Expo app 👋
+# Welcome to LacedApp 👋
+
+![image](https://github.com/user-attachments/assets/d2d95faf-8358-4c5d-8b07-931c997f961e)
+![image](https://github.com/user-attachments/assets/7e8fcddd-ec8b-41b2-8f94-f3dd07796fc8)
+![image](https://github.com/user-attachments/assets/60f25520-552a-4d0e-905c-d1809f8c97ba)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
